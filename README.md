@@ -4,7 +4,7 @@
 
 Версия проекта: **v.2.27.0**
 
-Ссылка на версию проекта: [https://Tigran-Oganesyan.github.io/form/](https://github.com/Tigran-Oganesyan/Tigran-Oganesyan.proj10.io.git/index.html)
+Ссылка на версию проекта: [https://Tigran-Oganesyan.github.io/form/](https://tigran-oganesyan.github.io/Tigran-Oganesyan.proj10.io/)
 
 
 ### Критерии валидации
